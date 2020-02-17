@@ -23,5 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:<br>
 
-<img src='https://imgur.com/OhOyCDY.gif' title='My Twitter- Part 1: Video Walkthrough' width='250' alt='My Twitter- Part 1: Video Walkthrough' />
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/60w4QGB"><a href="//imgur.com/a/60w4QGB">Twitter - Part 1</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
