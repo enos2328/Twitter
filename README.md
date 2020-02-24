@@ -31,7 +31,7 @@ Here's a walkthrough of implemented user stories:
 ### Notes
 My challenge was having TwitterAPICaller give me a lovely **BDBOAuth1Manager** error all of a sudden after working perfectly fine for the entire time. I googled every way to fix it and nothing changed. It wouldn't even let me build anything to be able to show the app that I had done so far. I had just finished implementing the favorite/unfavorite code in the TweetTableViewController.swift file. Fantastic.
 
-<img src='https://imgur.com/NJRDfAz' title='Error Message' width='' alt='Image to show error I am getting' />
+<img src='https://imgur.com/NJRDfAz.png' title='Error Message' width='' alt='Image to show error I am getting' />
 
 ---
 
