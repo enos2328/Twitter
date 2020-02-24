@@ -13,7 +13,7 @@ Time spent: **X** hours spent in total
 The following **required** functionality is completed:
 
 - [X] User can compose a tweet. (4pts)
-- [ ] User can favorite a tweet. (4pts)
+- [X] User can favorite a tweet. (4pts)
 - [ ] User can retweet a tweet. (2pts)
 
 The following **bonus** features are implemented:
@@ -28,6 +28,10 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+### Notes
+My challenge was having TwitterAPICaller give me a lovely **BDBOAuth1Manager** error all of a sudden after working perfectly fine for the entire time. I googled every way to fix it and nothing changed. It wouldn't even let me build anything to be able to show the app that I had done so far. I had just finished implementing the favorite/unfavorite code in the TweetTableViewController.swift file. Fantastic.
+
+---
 
 # Twitter - Part I
 
